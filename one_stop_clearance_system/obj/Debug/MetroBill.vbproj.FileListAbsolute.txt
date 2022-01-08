@@ -1,0 +1,22 @@
+C:\Users\indio\OneDrive\Documents\DotNetBar WinForms Samples\MetroBill\VB\bin\Debug\MetroBill.exe
+C:\Users\indio\OneDrive\Documents\DotNetBar WinForms Samples\MetroBill\VB\bin\Debug\MetroBill.pdb
+C:\Users\indio\OneDrive\Documents\DotNetBar WinForms Samples\MetroBill\VB\obj\Debug\MetroBill.ClientControl.resources
+C:\Users\indio\OneDrive\Documents\DotNetBar WinForms Samples\MetroBill\VB\obj\Debug\MetroBill.InvoiceControl.resources
+C:\Users\indio\OneDrive\Documents\DotNetBar WinForms Samples\MetroBill\VB\obj\Debug\MetroBill.MainForm.resources
+C:\Users\indio\OneDrive\Documents\DotNetBar WinForms Samples\MetroBill\VB\obj\Debug\Resources.resources
+C:\Users\indio\OneDrive\Documents\DotNetBar WinForms Samples\MetroBill\VB\obj\Debug\MetroBill.StartControl.resources
+C:\Users\indio\OneDrive\Documents\DotNetBar WinForms Samples\MetroBill\VB\obj\Debug\MetroBill.StartupForm.resources
+C:\Users\indio\OneDrive\Documents\DotNetBar WinForms Samples\MetroBill\VB\obj\Debug\MetroBill.vbproj.GenerateResource.Cache
+C:\Users\indio\OneDrive\Documents\DotNetBar WinForms Samples\MetroBill\VB\obj\Debug\MetroBill.exe
+C:\Users\indio\OneDrive\Documents\DotNetBar WinForms Samples\MetroBill\VB\obj\Debug\MetroBill.pdb
+C:\Users\indio\OneDrive\Desktop\VB\obj\Debug\MetroBill.exe
+C:\Users\indio\OneDrive\Desktop\VB\obj\Debug\MetroBill.pdb
+C:\Users\indio\OneDrive\Desktop\VB\bin\Debug\MetroBill.exe
+C:\Users\indio\OneDrive\Desktop\VB\bin\Debug\MetroBill.pdb
+C:\Users\indio\OneDrive\Desktop\VB\obj\Debug\MetroBill.ClientControl.resources
+C:\Users\indio\OneDrive\Desktop\VB\obj\Debug\MetroBill.InvoiceControl.resources
+C:\Users\indio\OneDrive\Desktop\VB\obj\Debug\MetroBill.MainForm.resources
+C:\Users\indio\OneDrive\Desktop\VB\obj\Debug\Resources.resources
+C:\Users\indio\OneDrive\Desktop\VB\obj\Debug\MetroBill.StartControl.resources
+C:\Users\indio\OneDrive\Desktop\VB\obj\Debug\MetroBill.StartupForm.resources
+C:\Users\indio\OneDrive\Desktop\VB\obj\Debug\MetroBill.vbproj.GenerateResource.Cache
